@@ -1,5 +1,7 @@
 # Manifest of Digital Preservation
 
+**NOTA:** la seguente traduzione è stata realizzata tramite IA e potrebbe contenere parti incorrette, in caso di incomprensione consultare il [documento originale in inglese](index.md).
+
 Il "Manifest of Digital Preservation" (Manifesto della Conservazione Digitale) presenta un piano completo per salvaguardare i contenuti digitali per il futuro. Copre una serie di aspetti cruciali, tra cui la protezione di vari tipi di media, garantendo un facile accesso per tutti, rimuovendo le restrizioni di gestione dei diritti digitali (DRM), distribuendo gli sforzi di conservazione, garantendo la compatibilità con le tecnologie in evoluzione, promuovendo l'accesso aperto alle informazioni, sostenendo l'uso trasparente dell'intelligenza artificiale (IA) e preservando i repository di software libero e open source (FOSS). Abbracciando questi principi, il manifesto mira a garantire che le preziose risorse digitali rimangano disponibili, utilizzabili e accessibili a tutti, sottolineando l'importanza della conservazione digitale in un panorama tecnologico in continua evoluzione.
 
 ## 1. Definizione dei Media 🎨
