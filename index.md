@@ -40,3 +40,6 @@ The library must serve as a data source for artificial intelligence (AI) systems
 
 ## 13. FOSS Repository Preservation 🛠️
 Every Free and Open Source Software (FOSS) repository must be cloned and preserved within the digital preservation system. This includes all code, documentation, version history, and associated assets. The preserved repositories should remain accessible and functional, enabling future developers to study, modify, and build upon the software even if the original hosting platform becomes unavailable or discontinued. This initiative promotes the long-term sustainability of FOSS projects and ensures that their contributions to the digital landscape are preserved for future generations.
+
+## 14. Right of Ownership
+Unless specifically rented (and consequently sold at a reduced price), each piece of media must be fully owned by the purchaser. The user has the right to retain, backup, edit, modify, gift, transfer, or sell the owned media. However, a media's license may prohibit copying and redistributing a previously purchased media for free to someone who does not own it, while maintaining media accessibility to the original sharer (essentially, you cannot pirate it, but you can sell it or remove it from your possession and give it to another, as if it were a physical good).
